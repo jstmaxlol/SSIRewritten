@@ -1,4 +1,8 @@
- ![SSiR-logo](https://github.com/user-attachments/assets/0355ff9c-ecc9-4f02-a054-9c8529c1c209)
+# important developer note(!)
+**SSIR** will **not receive any** future updates, **except through PRs**, as the official development has been **suspended indefinitely** \
+I decided not to archive the repo because there’s still a chance people might discover it and contribute with PRs to fix any bugs.
+
+![SSiR-logo](https://github.com/user-attachments/assets/0355ff9c-ecc9-4f02-a054-9c8529c1c209)
 #### 🧪A graphic installer for the famous Spotify tool, Spicetify!🧪
 🔥Why semiautomatic? Because i'm lazy, and couldn't think of a better name for this!🔥
 <!-- wrongest spacer in coding history -->
@@ -13,4 +17,4 @@ Any kind of help with the project is well accepted, for more information feel fr
 ## Notes📝
 ###### ⚠️After the 3(!) FULL REWRITES for the project, [check the timeline here](https://github.com/jstmaxlol/SSIRewritten/blob/main/.gitignore/timeline.md), SSI has become SSIR (SSIRewritten)
 <!-- Hey! if you forked this repo, think about leaving the credits here :) -->
-###### { jstmax! } @ { 62 69 74 2E 6C 79 2F 6D 78 5F 69 6E 66 6F }
+###### jstmax@62-69-74-2E-6C-79-2F-6D-78-5F-69-6E-66-6F
