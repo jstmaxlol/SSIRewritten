@@ -17,4 +17,4 @@ Any kind of help with the project is well accepted, for more information feel fr
 ## Notes📝
 ###### ⚠️After the 3(!) FULL REWRITES for the project, [check the timeline here](https://github.com/jstmaxlol/SSIRewritten/blob/main/.gitignore/timeline.md), SSI has become SSIR (SSIRewritten)
 <!-- Hey! if you forked this repo, think about leaving the credits here :) -->
-###### jstmax@62-69-74-2E-6C-79-2F-6D-78-5F-69-6E-66-6F
+###### jstmax! : <jstmaxlol@disroot.org> & <maxwasmailed@proton.me>
